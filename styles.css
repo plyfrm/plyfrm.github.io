@@ -95,3 +95,20 @@ a.dl {
 .hidden a {
 	text-decoration: none;
 }
+
+table.mp3table {
+}
+
+.mp3table > tbody > tr > td:nth-child(1) {
+	text-align: center;
+	width: 50px;
+}
+
+.mp3table > tbody > tr > td:nth-child(2) {
+	padding-left: 10px;
+	padding-right: 30px;
+}
+
+.mp3table > tbody > tr > td:nth-child(3) {
+	text-align: center;
+}
