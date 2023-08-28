@@ -121,3 +121,10 @@ audio {
 	margin-left: 20px;
 	margin-right: 20px;
 }
+
+/* MISC */
+
+.misc_list {
+	list-style: square;
+	margin-left: -24px;
+}
