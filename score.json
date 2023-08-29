@@ -17,7 +17,7 @@
     {
         "title": "Homesick Pt.7716 -flocon-",
         "artist": "ねこみみ魔法使い / obj. marie",
-        "level": "★4",
+        "level": "★1-4",
         "level_disp": "★4",
         "url": "http://necoco.2-d.jp/bms/nm38_hs.zip",
         "url_diff": "https://stellabms.xyz/upload/3016",
@@ -32,7 +32,7 @@
     {
         "title": "Homesick Pt.7716 -flatcode-",
         "artist": "ねこみみ魔法使い / obj. HARD判定 ENJOYERS",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "☆8",
         "url": "http://necoco.2-d.jp/bms/nm38_hs.zip",
         "url_diff": "https://stellabms.xyz/upload/3016",
@@ -47,7 +47,7 @@
     {
         "title": "ICU Remix [nueu:protocol]",
         "artist": "Ryo Ohnuki / Remixed yujurie / Objected rune",
-        "level": "★11",
+        "level": "★10-14",
         "level_disp": "★11",
         "url": "https://web.archive.org/web/20141018135930/http://liz.nothing.sh/yuju/yuju_icuRe.zip",
         "url_diff": "https://stellabms.xyz/upload/2986",
@@ -122,7 +122,7 @@
     {
         "title": "Transfixation [EPIC]",
         "artist": "Hyparpax [obj:evilmaid]",
-        "level": "★24",
+        "level": "★24+",
         "level_disp": "★24",
         "url": "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
         "url_diff": "https://stellabms.xyz/upload/1813",
@@ -137,7 +137,7 @@
     {
         "title": "クロノバイザー [Hyper-V]",
         "artist": "r / marie vs AXION",
-        "level": "★25",
+        "level": "★24+",
         "level_disp": "★25",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=132",
         "url_diff": "https://stellabms.xyz/upload/1379",
@@ -152,7 +152,7 @@
     {
         "title": "路上のサラジン-Shou+rt Mix-",
         "artist": "tarolabo vo：小宮真央 / obj. marie",
-        "level": "SB2",
+        "level": "☆10-11",
         "level_disp": "SB2",
         "url": "http://ofuton.tk/tarolabo/girizin.rar",
         "url_diff": "https://stellabms.xyz/upload/1374",
@@ -167,7 +167,7 @@
     {
         "title": "format0 [0x82D]",
         "artist": "雑味蔵 / obj. mawie",
-        "level": "★18",
+        "level": "★15-19",
         "level_disp": "★18",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=127",
         "url_diff": "https://stellabms.xyz/upload/1356",
@@ -182,7 +182,7 @@
     {
         "title": "I'M HERE NOW [Sink Down a Frozen Atlantis]",
         "artist": "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj. vocal trance enthusiast",
-        "level": "★11",
+        "level": "★10-14",
         "level_disp": "★11",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=123",
         "url_diff": "https://stellabms.xyz/upload/1341",
@@ -197,7 +197,7 @@
     {
         "title": "32082259297 [Liftoff]",
         "artist": "uvea / obj. m m a a r r i i e e",
-        "level": "!?",
+        "level": "gimmick",
         "level_disp": "!?",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=137",
         "url_diff": "https://stellabms.xyz/upload/1329",
@@ -242,7 +242,7 @@
     {
         "title": "Love Like [A Flower]",
         "artist": "eoll / obj. HARD判定 ENJOYERS",
-        "level": "点中1",
+        "level": "☆10-11",
         "level_disp": "点中1",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123",
         "url_diff": "https://stellabms.xyz/upload/1240",
@@ -257,7 +257,7 @@
     {
         "title": "[line:theta] [HYPERLIMINAL]",
         "artist": "nitro / obj. marie",
-        "level": "★24",
+        "level": "★24+",
         "level_disp": "★24",
         "url": "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
         "url_diff": "https://stellabms.xyz/upload/1212",
@@ -272,7 +272,7 @@
     {
         "title": "macron -demission-",
         "artist": "Est / obj. marie",
-        "level": "★?",
+        "level": "gimmick",
         "level_disp": "★?",
         "url": "https://onedrive.live.com/?id=F61C1F8825F0CF46%21159&cid=F61C1F8825F0CF46",
         "url_diff": "https://stellabms.xyz/upload/1201",
@@ -287,7 +287,7 @@
     {
         "title": "Binary Numbers [EXAM AREA]",
         "artist": "Cyclone Area / obj. marie",
-        "level": "!?",
+        "level": "gimmick",
         "level_disp": "!?",
         "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/QF8iVKiR",
         "url_diff": "https://stellabms.xyz/upload/1126",
@@ -302,7 +302,7 @@
     {
         "title": "far in the blue sky... [perdu dans le ciel sombre...]",
         "artist": "saikoro / DARQUESABOUNE FRENCH DIVISION",
-        "level": "",
+        "level": "gimmick",
         "level_disp": "",
         "url": "http://web.archive.org/web/20040601000000/http://www.digitaljunk.net/saikoro-fitbs.rar",
         "url_diff": "https://stellabms.xyz/upload/1123",
@@ -317,7 +317,7 @@
     {
         "title": "Merry Christmas, bms! Gayme ☆★",
         "artist": "sasakure.UK / obj. marie",
-        "level": "",
+        "level": "★10-14",
         "level_disp": "",
         "url": "http://manbow.nothing.sh/event/explus/ex_revival/bms/mcml.rar",
         "url_diff": "https://stellabms.xyz/upload/1117",
@@ -332,7 +332,7 @@
     {
         "title": "Hypertext Transfer Protocol -418-",
         "artist": "EXCITECH / obj. marie",
-        "level": "点中1",
+        "level": "★1-4",
         "level_disp": "点中1",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
         "url_diff": "https://stellabms.xyz/upload/1109",
@@ -347,7 +347,7 @@
     {
         "title": "not 桜 [salmonother]",
         "artist": "MITCH DOWNVELL / obj. HARD判定 ENJOYERS",
-        "level": "点上3",
+        "level": "★1-4",
         "level_disp": "点上3",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
         "url_diff": "https://stellabms.xyz/upload/1109",
@@ -362,7 +362,7 @@
     {
         "title": "drivin'FTR [walkin'FTR]",
         "artist": "Yamajet / obj. HARD判定 ENJOYERS BGA:cyclia",
-        "level": "点中1",
+        "level": "★1-4",
         "level_disp": "点中1",
         "url": "http://www.yamajet.com/archives/32",
         "url_diff": "https://stellabms.xyz/upload/1108",
@@ -377,7 +377,7 @@
     {
         "title": "RETINAE -TIMELET PARADISE-",
         "artist": "RykSeb obj. marie respect for HARD判定 ENJOYERS",
-        "level": "☆11",
+        "level": "★1-4",
         "level_disp": "☆11",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=133",
         "url_diff": "https://stellabms.xyz/upload/1017",
@@ -392,7 +392,7 @@
     {
         "title": "RETINAE -FREQUENCE FUNCTION-",
         "artist": "RykSeb obj: HARD判定 ENJOYERS ft. marie",
-        "level": "点中2",
+        "level": "★1-4",
         "level_disp": "点中2",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=133",
         "url_diff": "https://stellabms.xyz/upload/1017",
@@ -407,7 +407,7 @@
     {
         "title": "G-Bass REAL LIFE -鬼-",
         "artist": "Theme",
-        "level": "点鬼",
+        "level": "★5-9",
         "level_disp": "点鬼",
         "url": "https://venue.bmssearch.net/bmsshuin3/111",
         "url_diff": "https://plyfrm.github.io/dl/sabun/G-Bass.zip",
@@ -437,7 +437,7 @@
     {
         "title": "Magical Love Words ~l'amour est dans l'air~",
         "artist": "源屋feat.ユスラ obj. HARD判定 ENJOYERS",
-        "level": "点下0",
+        "level": "☆6-9",
         "level_disp": "点下0",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
         "url_diff": "https://stellabms.xyz/upload/908",
@@ -452,7 +452,7 @@
     {
         "title": "pphopp -yop-",
         "artist": "dandeless obj. HARD判定 ENJOYERS",
-        "level": "点下3",
+        "level": "☆6-9",
         "level_disp": "点下3",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=135",
         "url_diff": "https://stellabms.xyz/upload/907",
@@ -482,7 +482,7 @@
     {
         "title": "鎖 -極- <infinite>",
         "artist": "gmtn. / obj. marie visualized :: light motions *57",
-        "level": "★15",
+        "level": "★15-19",
         "level_disp": "★15",
         "url": "https://drive.google.com/uc?id=1kv5zE9FoX-_gUS_nx9v5-RA8gjCdb9mI&export=download",
         "url_diff": "https://stellabms.xyz/upload/805",
@@ -497,7 +497,7 @@
     {
         "title": "鎖 -急- <infinite>",
         "artist": "gmtn. / obj. marie visualized :: light motions *57",
-        "level": "★15",
+        "level": "★10-14",
         "level_disp": "★15",
         "url": "https://drive.google.com/uc?id=1kv5zE9FoX-_gUS_nx9v5-RA8gjCdb9mI&export=download",
         "url_diff": "https://stellabms.xyz/upload/805",
@@ -512,7 +512,7 @@
     {
         "title": "鎖 -破- <infinite>",
         "artist": "gmtn. / obj. marie visualized :: light motions *57",
-        "level": "★15",
+        "level": "★10-14",
         "level_disp": "★15",
         "url": "https://drive.google.com/uc?id=1kv5zE9FoX-_gUS_nx9v5-RA8gjCdb9mI&export=download",
         "url_diff": "https://stellabms.xyz/upload/805",
@@ -527,7 +527,7 @@
     {
         "title": "鎖  -序- <infinite>",
         "artist": "gmtn. / obj. marie visualized :: light motions *57",
-        "level": "★15",
+        "level": "★10-14",
         "level_disp": "★15",
         "url": "https://drive.google.com/uc?id=1kv5zE9FoX-_gUS_nx9v5-RA8gjCdb9mI&export=download",
         "url_diff": "https://stellabms.xyz/upload/805",
@@ -572,7 +572,7 @@
     {
         "title": "New period [marienother]",
         "artist": "maru / obj. marie BGA:Johnny",
-        "level": "★14",
+        "level": "★10-14",
         "level_disp": "★14",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=269&event=133",
         "url_diff": "https://stellabms.xyz/upload/747",
@@ -587,7 +587,7 @@
     {
         "title": "Sousyou Soukoku [marienother]",
         "artist": "pencil / obj. marie",
-        "level": "★16",
+        "level": "★15-19",
         "level_disp": "★16",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=269&event=133",
         "url_diff": "https://stellabms.xyz/upload/695",
@@ -602,7 +602,7 @@
     {
         "title": "The NightScape [marienother]",
         "artist": "litmus* / obj. marie mov : Can.D -mtmrw",
-        "level": "★19",
+        "level": "★20",
         "level_disp": "★19",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=110",
         "url_diff": "https://stellabms.xyz/upload/692",
@@ -617,7 +617,7 @@
     {
         "title": "G-Bass REAL LIFE [marienother]",
         "artist": "Theme / obj.marie",
-        "level": "☆11",
+        "level": "☆10-11",
         "level_disp": "☆11",
         "url": "https://venue.bmssearch.net/bmsshuin3/111",
         "url_diff": "https://stellabms.xyz/upload/631",
@@ -708,7 +708,7 @@
     {
         "title": "Unexpected rain -GOD-",
         "artist": "eoll / Ba'al",
-        "level": "",
+        "level": "★21",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/10hbH6ebXqlvloi2HzAJvIlAklgJH1aUe/view?usp=share_link",
         "url_diff": "https://stellabms.xyz/upload/2152",
@@ -723,7 +723,7 @@
     {
         "title": "Unexpected rain [Rainy]",
         "artist": "eoll/ ?",
-        "level": "",
+        "level": "★15-19",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/10hbH6ebXqlvloi2HzAJvIlAklgJH1aUe/view?usp=share_link",
         "url_diff": "https://stellabms.xyz/upload/2152",
@@ -738,7 +738,7 @@
     {
         "title": "Unexpected rain (a colorful future)",
         "artist": "eoll",
-        "level": "",
+        "level": "★22",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/10hbH6ebXqlvloi2HzAJvIlAklgJH1aUe/view?usp=share_link",
         "url_diff": "https://stellabms.xyz/upload/2152",
@@ -753,7 +753,7 @@
     {
         "title": "Arcadia HARDER",
         "artist": "HaL feat. riri /Lotuz",
-        "level": "",
+        "level": "★10-14",
         "level_disp": "",
         "url": "http://web.archive.org/web/20060621124303/www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
         "url_diff": "https://plyfrm.github.io/dl/sabun/sphard_lotuz.zip",
@@ -768,7 +768,7 @@
     {
         "title": "toasting marshmallows [MASTAR]",
         "artist": "DJ Excuses/Lotuz",
-        "level": "",
+        "level": "★15-19",
         "level_disp": "",
         "url": "http://k-bms.com/party_pabat/party.jsp?board_num=22&num=28&order=reg&odtype=a",
         "url_diff": "https://plyfrm.github.io/dl/sabun/_ttmm_lotuz.zip",
@@ -783,7 +783,7 @@
     {
         "title": "searoad tracks =side blue= -For Expart-",
         "artist": "sasakure.UK/Lotuz",
-        "level": "",
+        "level": "★10-14",
         "level_disp": "",
         "url": "http://web.archive.org/web/20070727155516/http://sasakure.bms.ms/bms/searoadremix2.zip",
         "url_diff": "https://plyfrm.github.io/dl/sabun/searemix2_forexpert.zip",
@@ -798,7 +798,7 @@
     {
         "title": "SEPIA [DARKER ANOTHE]",
         "artist": "SHIKI/-45/Lotuz",
-        "level": "",
+        "level": "★1-4",
         "level_disp": "",
         "url": "http://shiki2.sakura.ne.jp/shiki_sepia.zip",
         "url_diff": "https://plyfrm.github.io/dl/sabun/sepia_lotuz.zip",
@@ -843,7 +843,7 @@
     {
         "title": "歪んだ灰燼 (MP)",
         "artist": "次元大介 / Virkato Wakhmaninov team DARQUESABOUNE",
-        "level": "",
+        "level": "★15-19",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -873,7 +873,7 @@
     {
         "title": "歪んだ灰燼",
         "artist": "次元大介 / Virkato Wakhmaninov",
-        "level": "",
+        "level": "★5-9",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -888,7 +888,7 @@
     {
         "title": "歪み呼 (KUSO GATE)",
         "artist": "次元大介 / 朱雀 VS 玄武",
-        "level": "",
+        "level": "★24+",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -903,7 +903,7 @@
     {
         "title": "歪み呼†",
         "artist": "次元大介 / 朱雀 VS 玄武",
-        "level": "",
+        "level": "★15-19",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -918,7 +918,7 @@
     {
         "title": "歪み呼",
         "artist": "次元大介 / 朱雀 VS 玄武",
-        "level": "",
+        "level": "★10-14",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -933,7 +933,7 @@
     {
         "title": "歪んだ-JOY",
         "artist": "次元大介 / T.Σ.Generation / ルゼ ☆ えみゅう。 ☆ 石王マサト / remixed celas / xi",
-        "level": "",
+        "level": "★24+",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -948,7 +948,7 @@
     {
         "title": "歪んだ-DEN",
         "artist": "次元大介 / T.Σ.Generation / LeaF / ROKINA / BACO",
-        "level": "",
+        "level": "★10-14",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -963,7 +963,7 @@
     {
         "title": "歪んだNectaris",
         "artist": "次元大介 / 神楽 / ovnz",
-        "level": "",
+        "level": "★15-19",
         "level_disp": "",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Boss_Battle_arrange.zip",
@@ -1040,7 +1040,7 @@
     {
         "title": "BLAZES ASSAULT [AQUNE]",
         "artist": "ikaruga_nex / obj. qune",
-        "level": "★1",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/0B9BDYiQ",
         "url_diff": "https://plyfrm.github.io/dl/sabun/blazesaqune.zip",
@@ -1055,7 +1055,7 @@
     {
         "title": "Upshift [ovnz]",
         "artist": "Iriss-Frantzz / obj.ovnz",
-        "level": "★1",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://drive.google.com/uc?id=181XHRYVkibwAtIFW0RUWI8cWSB9pGvQW&export=download",
         "url_diff": "https://plyfrm.github.io/dl/sabun/Upshift_ovnz.zip",
@@ -1070,7 +1070,7 @@
     {
         "title": "PLANET BELLIGERENCE (B-MIX) [QNOTHER]",
         "artist": "bouncin' b / obj.ovnz",
-        "level": "★10",
+        "level": "★10-14",
         "level_disp": "",
         "url": "https://heckscaper.com/bms/planetb.zip",
         "url_diff": "https://plyfrm.github.io/dl/sabun/planetbelligerence_qnother.zip",
@@ -1085,7 +1085,7 @@
     {
         "title": "不安神経症 -rusting away, away, till 「it」 comes off- (tourment)",
         "artist": "AYhaz edit: HARD判定 ENJOYERS",
-        "level": "★1",
+        "level": "★1-4",
         "level_disp": "",
         "url": "http://yaritaihoudie.free.fr/bms/boxofsins/fuanshinkeishou.rar",
         "url_diff": "https://plyfrm.github.io/dl/sabun/fuan_tourment.zip",
@@ -1100,7 +1100,7 @@
     {
         "title": "マゴコロ [real]",
         "artist": "空読無 白眼 obj. HARD判定 ENJOYERS",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://drive.google.com/uc?id=1LEy4NEETiyRgtBYtdlu_1M0fphl1Hodt",
         "url_diff": "https://plyfrm.github.io/dl/sabun/magokoro_real.zip",
@@ -1161,7 +1161,7 @@
     {
         "title": "Halation [SP ANOTHER]",
         "artist": "Nyolfen BGA:空読無 白眼",
-        "level": "★12",
+        "level": "★10-14",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1pe1SpxI1xEO3KKR2KLoNrB-EXh5tTvpm/view",
         "url_diff": "",
@@ -1176,7 +1176,7 @@
     {
         "title": "Halation [SP HYPER]",
         "artist": "Nyolfen BGA:空読無 白眼",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1pe1SpxI1xEO3KKR2KLoNrB-EXh5tTvpm/view",
         "url_diff": "",
@@ -1191,7 +1191,7 @@
     {
         "title": "Halation [SP NORMAL]",
         "artist": "Nyolfen BGA:空読無 白眼",
-        "level": "☆4",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1pe1SpxI1xEO3KKR2KLoNrB-EXh5tTvpm/view",
         "url_diff": "",
@@ -1206,7 +1206,7 @@
     {
         "title": "FUELBLOODS -GOD-",
         "artist": "callasoiled / obj. marie",
-        "level": "★24",
+        "level": "★24+",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1221,7 +1221,7 @@
     {
         "title": "FUELBLOODS [SP INSANE]",
         "artist": "callasoiled",
-        "level": "★17",
+        "level": "★15-19",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1236,7 +1236,7 @@
     {
         "title": "FUELBLOODS [SP ANOTHER]",
         "artist": "callasoiled",
-        "level": "★3",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1251,7 +1251,7 @@
     {
         "title": "FUELBLOODS [SP HYPER]",
         "artist": "callasoiled",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1266,7 +1266,7 @@
     {
         "title": "FUELBLOODS [SP NORMAL]",
         "artist": "callasoiled",
-        "level": "☆5",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1281,7 +1281,7 @@
     {
         "title": "FUELBLOODS [SP BEGINNER]",
         "artist": "callasoiled",
-        "level": "☆2",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://dl.dropboxusercontent.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip",
         "url_diff": "",
@@ -1344,7 +1344,7 @@
     {
         "title": "glass prince's sorrow -pulverize-",
         "artist": "qune",
-        "level": "★14",
+        "level": "★10-14",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1359,7 +1359,7 @@
     {
         "title": "glass prince's sorrow -brittleself-",
         "artist": "qune",
-        "level": "★5",
+        "level": "★5-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1374,7 +1374,7 @@
     {
         "title": "glass prince's sorrow -another-",
         "artist": "qune",
-        "level": "☆11",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1389,7 +1389,7 @@
     {
         "title": "glass prince's sorrow -hyper-",
         "artist": "qune",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1404,7 +1404,7 @@
     {
         "title": "glass prince's sorrow -normal-",
         "artist": "qune",
-        "level": "☆5",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1419,7 +1419,7 @@
     {
         "title": "glass prince's sorrow -beginner-",
         "artist": "qune",
-        "level": "☆2",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1iQGQ7BUIf4-yRpXFMH9vgt_0F_WoL9gy/view?usp=sharing",
         "url_diff": "",
@@ -1464,7 +1464,7 @@
     {
         "title": "Songe-Nuage [OVERCAST]",
         "artist": "qune",
-        "level": "★8",
+        "level": "★5-9",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1jSow5IgVPy9N9cJWgKZKE2b5BgfJqucp/view?usp=sharing",
         "url_diff": "",
@@ -1479,7 +1479,7 @@
     {
         "title": "Songe-Nuage [ANOTHER]",
         "artist": "qune",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1jSow5IgVPy9N9cJWgKZKE2b5BgfJqucp/view?usp=sharing",
         "url_diff": "",
@@ -1494,7 +1494,7 @@
     {
         "title": "Songe-Nuage [HYPER]",
         "artist": "qune",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1jSow5IgVPy9N9cJWgKZKE2b5BgfJqucp/view?usp=sharing",
         "url_diff": "",
@@ -1509,7 +1509,7 @@
     {
         "title": "Songe-Nuage [NORMAL]",
         "artist": "qune",
-        "level": "☆3",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1jSow5IgVPy9N9cJWgKZKE2b5BgfJqucp/view?usp=sharing",
         "url_diff": "",
@@ -1539,7 +1539,7 @@
     {
         "title": "Bit by Bit [7main]",
         "artist": "７",
-        "level": "★11",
+        "level": "★10-14",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1ZFV8pWTEAQGP47yuJvLYib_qUuCbFd7R/view?usp=sharing",
         "url_diff": "",
@@ -1554,7 +1554,7 @@
     {
         "title": "Bit by Bit [7light]",
         "artist": "７",
-        "level": "☆7",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1ZFV8pWTEAQGP47yuJvLYib_qUuCbFd7R/view?usp=sharing",
         "url_diff": "",
@@ -1629,7 +1629,7 @@
     {
         "title": "Below Snow Petals [SP ANOTHER]",
         "artist": "５",
-        "level": "☆11",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1HYBZ6aSR6cV1wjVW_BE0z4LhBmTeZins/view",
         "url_diff": "",
@@ -1644,7 +1644,7 @@
     {
         "title": "Below Snow Petals [SP HYPER]",
         "artist": "５",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1HYBZ6aSR6cV1wjVW_BE0z4LhBmTeZins/view",
         "url_diff": "",
@@ -1659,7 +1659,7 @@
     {
         "title": "Below Snow Petals [SP NORMAL]",
         "artist": "５",
-        "level": "☆6",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1HYBZ6aSR6cV1wjVW_BE0z4LhBmTeZins/view",
         "url_diff": "",
@@ -1674,7 +1674,7 @@
     {
         "title": "Below Snow Petals [SP BEGINNER]",
         "artist": "５",
-        "level": "☆2",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/1HYBZ6aSR6cV1wjVW_BE0z4LhBmTeZins/view",
         "url_diff": "",
@@ -1734,7 +1734,7 @@
     {
         "title": "Arbre Des Songes",
         "artist": "qune",
-        "level": "☆11",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1SckRq3l8MiatI7rSXSB_SRsBborz69jo/view?usp=sharing",
         "url_diff": "",
@@ -1749,7 +1749,7 @@
     {
         "title": "Arbre Des Songes",
         "artist": "qune",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1SckRq3l8MiatI7rSXSB_SRsBborz69jo/view?usp=sharing",
         "url_diff": "",
@@ -1764,7 +1764,7 @@
     {
         "title": "Arbre Des Songes",
         "artist": "qune",
-        "level": "☆4",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1SckRq3l8MiatI7rSXSB_SRsBborz69jo/view?usp=sharing",
         "url_diff": "",
@@ -1779,7 +1779,7 @@
     {
         "title": "Arbre Des Songes",
         "artist": "qune",
-        "level": "☆2",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "http://drive.google.com/file/d/1SckRq3l8MiatI7rSXSB_SRsBborz69jo/view?usp=sharing",
         "url_diff": "",
@@ -1839,7 +1839,7 @@
     {
         "title": "ERα [sara]",
         "artist": "qune",
-        "level": "★3",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://www.dropbox.com/s/mcuno4q0vef1s57/eralpha_ogg.zip?dl=1",
         "url_diff": "",
@@ -1854,7 +1854,7 @@
     {
         "title": "ERα",
         "artist": "qune",
-        "level": "☆11",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://www.dropbox.com/s/mcuno4q0vef1s57/eralpha_ogg.zip?dl=1",
         "url_diff": "",
@@ -1869,7 +1869,7 @@
     {
         "title": "ERα",
         "artist": "qune",
-        "level": "☆9",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://www.dropbox.com/s/mcuno4q0vef1s57/eralpha_ogg.zip?dl=1",
         "url_diff": "",
@@ -1884,7 +1884,7 @@
     {
         "title": "ERα",
         "artist": "qune",
-        "level": "☆7",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://www.dropbox.com/s/mcuno4q0vef1s57/eralpha_ogg.zip?dl=1",
         "url_diff": "",
@@ -1933,7 +1933,7 @@
     {
         "title": "About The Universe [NORMAL]",
         "artist": "SOTUI & MIssionary Movie: 6XeNoN9 / Object: qune",
-        "level": "☆6",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNZDBTVUNZRXA5QUU/view?resourcekey=0-j6uzRXTfFFRX3DsPnMxByQ",
         "url_diff": "",
@@ -1948,7 +1948,7 @@
     {
         "title": "About The Universe [HYPER]",
         "artist": "SOTUI & MIssionary Movie: 6XeNoN9 / Object: qune",
-        "level": "☆9",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNZDBTVUNZRXA5QUU/view?resourcekey=0-j6uzRXTfFFRX3DsPnMxByQ",
         "url_diff": "",
@@ -1963,7 +1963,7 @@
     {
         "title": "About The Universe [ANOTHER]",
         "artist": "SOTUI & MIssionary Movie: 6XeNoN9 / Object: qune",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNZDBTVUNZRXA5QUU/view?resourcekey=0-j6uzRXTfFFRX3DsPnMxByQ",
         "url_diff": "",
@@ -1978,7 +1978,7 @@
     {
         "title": "Cherry Blossoms Fall [ANOTHER]",
         "artist": "SOTUI & Zoe VanWest / obj. Ovnize Movie: King Harkinian",
-        "level": "☆4",
+        "level": "☆1-5",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNVTFDcVJXSk9yYjg/view?resourcekey=0-Vxo_s-xjZu9hTON9Cfc_4w",
         "url_diff": "",
@@ -1993,7 +1993,7 @@
     {
         "title": "Cherry Blossoms Fall [ANOTHER]",
         "artist": "SOTUI & Zoe VanWest / obj. Ovnize Movie: King Harkinian",
-        "level": "☆8",
+        "level": "☆6-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNVTFDcVJXSk9yYjg/view?resourcekey=0-Vxo_s-xjZu9hTON9Cfc_4w",
         "url_diff": "",
@@ -2008,7 +2008,7 @@
     {
         "title": "Cherry Blossoms Fall [ANOTHER]",
         "artist": "SOTUI & Zoe VanWest / obj. Ovnize Movie: King Harkinian",
-        "level": "☆10",
+        "level": "☆10-11",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNVTFDcVJXSk9yYjg/view?resourcekey=0-Vxo_s-xjZu9hTON9Cfc_4w",
         "url_diff": "",
@@ -2023,7 +2023,7 @@
     {
         "title": "Chronostasis [ANOTHER]",
         "artist": "黒皇帝 / obj. Ovnize Movie: 6XeNoN9",
-        "level": "★6",
+        "level": "★5-9",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNQWpfemZCYXh6aXc/view?resourcekey=0-cafF_pO-h3qTL5FHWq2WSw",
         "url_diff": "",
@@ -2038,7 +2038,7 @@
     {
         "title": "Chronostasis [INSANE]",
         "artist": "黒皇帝 / obj.Ovnize Movie: 6XeNoN9",
-        "level": "★17",
+        "level": "★15-19",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNQWpfemZCYXh6aXc/view?resourcekey=0-cafF_pO-h3qTL5FHWq2WSw",
         "url_diff": "",
@@ -2053,7 +2053,7 @@
     {
         "title": "Fracture Temporelle [ANOTHER]",
         "artist": "黒皇帝 / obj. Ovnize Movie: King Harkinian",
-        "level": "★10",
+        "level": "★10-14",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNY1k1YWRObXBtLXc/view?resourcekey=0-AcXAVKH75NYV46CA1AGE0g",
         "url_diff": "",
@@ -2083,7 +2083,7 @@
     {
         "title": "Astar [ANOTHER]",
         "artist": "黒皇帝 Movie: Cirkass / Object: qune",
-        "level": "★2",
+        "level": "★1-4",
         "level_disp": "",
         "url": "https://drive.google.com/file/d/0B-lINouU2qRNaF93WUc5M2pGb0U/view?resourcekey=0-8u6mcKD09bYm2OH4Luk-2g",
         "url_diff": "",
