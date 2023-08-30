@@ -41,7 +41,7 @@ a {
 
 /* TOP */
 
-body > h1:nth-child(1) {
+h1.header {
 	margin-top: 0;
 	margin-bottom: 15px;
 	
