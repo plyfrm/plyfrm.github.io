@@ -1,0 +1,166 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+body {
+	min-height: 100vh;
+}
+
+a {
+	color:rgb(255, 0, 76);
+}
+
+a:visited {
+	color:rgb(255, 80, 133);
+}
+
+.page {
+	max-width: 1024px;
+	padding: 0px 16px 0px 16px;
+	margin: 0px auto 0px auto;
+}
+
+#header {
+	height: 50px;
+	background-color: white;
+}
+
+#header .page {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+#header h1 {
+	line-height: 50px;
+	flex-grow: 2;
+	
+	user-select: none;
+	
+	/* text gradient */
+	background: linear-gradient(179deg, rgb(255, 153, 0), rgb(255, 0, 140));
+	text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+}
+
+#header .button {
+	height: 34px;
+	width: 100px;
+	margin: 8px 0px 0px 16px;
+	
+	text-align: center;
+	font-size: 20px;
+	line-height: 34px;
+	
+	user-select: none;
+	cursor: pointer;
+
+	color: white;
+	background-color: rgb(255, 0, 76);
+}
+
+#header .button:hover {
+	background-color: rgb(255, 80, 133);
+}
+
+#contents {
+	background-color: rgb(240, 240, 240);
+	padding-bottom: 8px;
+}
+
+#contents .page {
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+.article {
+	margin-top: 8px;
+	width: 100%;
+
+	background-color: white;
+	border: 1px solid #ccc;
+	line-height: 24px;
+	font-size: 16px;
+}
+
+.article h1 {
+	display: block;
+	padding: 0 0 0 32px;
+	font-size: 20px;
+	height: 28px;
+	line-height: 28px;
+	border-bottom: 1px solid #ccc;
+}
+
+.article h2 {
+	max-width: 600px;
+	padding: 0 16px 0 16px;
+	margin: 32px auto 16px auto;
+	text-align: center;
+}
+
+.article p {
+	max-width: 600px;
+	padding: 0 16px 0 16px;
+	margin: 16px auto 16px auto;
+	text-align: justify;
+}
+
+.article ul {
+	max-width: 600px;
+	padding: 0 16px 0 16px;
+	margin: 8px auto 8px auto;
+	text-align: justify;
+}
+
+.levels {
+	margin: 16px auto 16px auto;
+	text-align: center;
+}
+
+.levels .sep {
+	width: 50px;
+}
+
+.levels .item {
+	width: 50px;
+}
+
+.levels .desc {
+	text-align: left;
+}
+
+.grid {
+	padding: 8px 0 8px 0;
+	display: flex;
+	width: 100%;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
+}
+
+.folder {
+	background-color:rgb(240, 240, 240);
+}
+
+.folder-name {
+	background-color: white;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 40px;
+}
+
+.tr_normal td {
+	font-size: 12px !important;
+	border-top: 1px solid rgb(240, 240, 240);
+}
+
+.tr_separate td {
+	border-top: 1px solid rgb(100, 100, 100);
+}

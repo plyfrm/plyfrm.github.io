@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html class=" gwnfbqs idc0_343">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>Timing Table (仮)</title>
+	<link href="styles.css" rel="stylesheet" type="text/css">
+	<meta name="bmstable" content="./header.json">
+	<script type="text/javascript" charset="utf8" src="./jquery-2.1.3.min.js"></script>
+	<script type="text/javascript" charset="utf8" src="./showtable.js"></script>
+</head>
+
+<body>
+	<div id="header">
+		<div class="page">
+			<h1>Timing Table (仮)</h1>
+			<div class="button" onclick="select_eng();">English</div>
+			<div class="button" onclick="select_jpn();">日本語</div>
+		</div>
+	</div>
+
+	<div id="contents">
+		<div class="page">
+			<div class="article lang lang-en" style="display: block;">
+				<h1>Info</h1>
+				<p>
+					Difficulty table with a focus on <b>scoring difficulty</b>, containing <b>HARD
+						JUDGE</b> charts only.
+				</p>
+
+				<p>
+					Please contact <a href="https://twitter.com/plyfrm">@plyfrm</a> on
+					twitter for proposals.
+				</p>
+
+				<h2>Chart Requirements</h2>
+
+				<ul>
+					<li><b>Scoring difficulty must be the main focus.</b> Patterns which shift the
+						focus onto clearing difficulty are likely to make the chart unsuitable.</li>
+					<li><b>HARD JUDGE</b> and <b>7KEYS</b> charts only.</li>
+					<i><em>#TOTAL</em> must be reasonable and <em>mines</em> are not allowed.</i>
+					<li><em>Long Notes</em> and <em>SOF-LAN</em> are allowed if used sparingly and
+						with intent.</li>
+					<li><em>Kuse</em> and <em>technical patterns</em> are welcome so long as they
+						do not shift the focus away from scoring and onto clearing difficulty.</li>
+				</ul>
+
+				<h2>Rating System</h2>
+
+				<p>
+					The main table is comprised of the 下, 中 and 上 categories (each representing
+					different density levels), only those will have their timing difficulty rated.
+				</p>
+
+				<p>
+					<b>Notes on the 鬼 (oni) folder:</b> This is to be considered a specially
+					curated folder where the more gimmicky or spicy charts go.
+				</p>
+				
+				<!--
+				<p>I will draw a thing of
+					your choosing for each person who is the first to send me a AAA score on any of
+					these charts (limited to one per person).<br>
+					They are not all necessarily hard to score on, so please give it a try!
+					(check comments below to see which are already claimed)
+				</p>
+				-->
+				
+				<table class="levels">
+					<thead>
+						<tr>
+							<th colspan="2">Category</th>
+							<th class="sep">
+							</th>
+							<th colspan="2">Rating</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="item">下</td>
+							<td class="desc">low density (≤☆10)</td>
+							<td class="sep"></td>
+							<td class="item">0</td>
+							<td class="desc">trivial</td>
+						</tr>
+						<tr>
+							<td class="item">中</td>
+							<td class="desc">medium density (☆11 ~ ★2)</td>
+							<td class="sep"></td>
+							<td class="item">1</td>
+							<td class="desc">straightforward</td>
+						</tr>
+						<tr>
+							<td class="item">上</td>
+							<td class="desc">high density (≥★2)</td>
+							<td class="sep"></td>
+							<td class="item">2</td>
+							<td class="desc">easier technical patterns</td>
+						</tr>
+						<tr>
+							<td class="item">鬼</td>
+							<td class="desc">challenge folder</td>
+							<td class="sep"></td>
+							<td class="item">3</td>
+							<td class="desc">harder technical patterns</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="article lang lang-jpn" style="display: none;">
+				<h1>Info</h1>
+				<p>
+					この難易度表に「HARD判定でスコア上げがきつくなる譜面」をまとめに行きます。
+				</p>
+
+				<p>
+					提案したい方はTwitter DM(<a href="https://twitter.com/plyfrm">@plyfrm</a>)にてお願いします。
+				</p>
+
+				<h2>譜面提案についての重点</h2>
+
+				<ul>
+					<li>表の焦点はあくまでスコアゲーです。譜面にクリアゲーっぽい配置(ラス殺し、強い局所発狂など)が含めていれば恐らく対象外と判断されます</li>
+					<li>HARD判定のある7KEYS譜面に限定しています</li>
+					<li>地雷または異常なTOTAL値を使用する譜面は嫌わずに拒否されます</li>
+					<li>ある程度にロングノーツとソフランがあれば構いません</li>
+					<li>癖譜面（クリアゲーではない種類）は歓迎です</li>
+				</ul>
+
+				<h2>難易度構成</h2>
+
+				<p>
+					本表では「下」、「中」、「上」という3つのカテゴリーがあります。（各のカテゴリーはとある密度部門に相当しています）難易度査定はその3つのカテゴリーにある譜面に限定されています。
+				</p>
+
+				<p>
+					<b>鬼フォルダについて：</b>
+				</p>
+
+				<p>
+					他のフォルダよりも大げさにする譜面はそこに投げられます。
+				</p>
+				
+				<!--
+				<p>
+					そのフォルダにある譜面の中でいずれかの譜面に世界最初AAAを取って、私の方へ何らかの形の証明を送って、好きなものを選ぶとお返しに選ばれたものを描いてあげます（1人1譜面）。
+				</p>
+
+				<p>
+					無理ゲーばかりではありませんからぜひ挑戦してみてください！（既に倒された譜面はコメント欄で確認出来ます）
+				</p>
+				-->
+
+				<table class="levels">
+					<thead>
+						<tr>
+							<th colspan="2">カテゴリー</th>
+							<th class="sep">
+							</th>
+							<th colspan="2">難易度</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="item">下</td>
+							<td class="desc">低密度部門 (☆10以下)</td>
+							<td class="sep"></td>
+							<td class="item">0</td>
+							<td class="desc">軽い</td>
+						</tr>
+						<tr>
+							<td class="item">中</td>
+							<td class="desc">中 中密度部門(☆11〜☆12下)</td>
+							<td class="sep"></td>
+							<td class="item">1</td>
+							<td class="desc">単純</td>
+						</tr>
+						<tr>
+							<td class="item">上</td>
+							<td class="desc">高密度部も (☆12)</td>
+							<td class="sep"></td>
+							<td class="item">2</td>
+							<td class="desc">複雑下位</td>
+						</tr>
+						<tr>
+							<td class="item">鬼</td>
+							<td class="desc">地獄絵図のようなフォルダ</td>
+							<td class="sep"></td>
+							<td class="item">3</td>
+							<td class="desc">複雑上位</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="article">
+				<h1>Charts</h1>
+				<div class="tableframe" id="table_int">
+				</div>
+			</div>
+
+			<div class="article" id="updates">
+				<h1>Updates</h1>
+				<p>
+						<b>2021-10-08</b>
+					</p><ul>
+						<li>Added 点中1 eoll / obj. HARD判定 ENJOYERS - Love Like [A Flower]</li>
+						<li>Added 点中1 EXCITECH / obj. marie - Hypertext Transfer Protocol -418-</li>
+						<li>Added 点中2 Thefur Celtridorn obj. w - Beats and Bites -HARD判定-</li>
+						<li>Added 点中3 M-kani obj. w - The avenue -HARD判定-</li>
+						<li>Added 点下0 eoll - Unexpected rain -Another-</li>
+						<li>Moved from temporary to main URL.</li>
+					</ul>
+				<p></p>
+				<p>
+						<b>2021-08-05</b>
+					</p><ul>
+						<li>点中2 → 点中1 cittan* - Leviathan 匠</li>
+						<li>Added 点上3 MITCH DOWNVELL / obj. HARD判定 ENJOYERS - not 桜 [salmonother]</li>
+						<li>Added 点中1 Yamajet / obj. HARD判定 ENJOYERS BGA:cyclia - drivin'FTR [walkin'FTR]</li>
+						<li>Added 点中2 er - スーパーイザナギオブジェクト ～サンラータン～</li>
+					</ul>
+				<p></p>
+				<p>
+						<b>2021-07-31</b>
+					</p><ul>
+						<li>Added 点中2 mocha - Saudade (`・θ・´)</li>
+						<li>Added 点下1 usomitaina twins obj: agu - 悲劇のアニマルキングダム ～BMS MIX～ [cursed]</li>
+					</ul>
+				<p></p>
+			</div>
+		</div>
+	</div>
+
+	<!-- lang switching -->
+	<script>
+		function select_eng() {
+			for (let elem of document.getElementsByClassName("lang")) {
+				elem.style.display = "none";
+			}
+			for (let elem of document.getElementsByClassName("lang-en")) {
+				elem.style.display = "block";
+			}
+		}
+
+		function select_jpn() {
+			let elems = document.getElementsByClassName("lang");
+			for (let elem of elems) {
+				elem.style.display = "none";
+			}
+			for (let elem of document.getElementsByClassName("lang-jpn")) {
+				elem.style.display = "block";
+			}
+		}
+
+		select_eng();
+	</script>
+
+
+
+</body></html>
