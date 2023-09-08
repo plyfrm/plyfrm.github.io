@@ -128,8 +128,8 @@
     {
         "title": "world devoid of you (fairydust radio edit) [ZOI-HD]",
         "artist": "void feat. Hiroko obj:SUZUKAZEΛ",
-        "level": "上2",
-        "url": "",
+        "level": "上1",
+        "url": "http://wayback.archive.org/web/20130726173552/http://www.mournfinale.com/bof2008/bmsogg_world_devoid.zip",
         "url_diff": "https://dl.dropbox.com/s/l6dlpve34qfj2tn/world%20devoid%20of%20you%20%28fairydust%20radio%20edit%29_zoihd.zip?dl=1",
         "comment": "",
         "md5": "e3de5be5a6cb6ca1874b8634f2c872ec"
@@ -761,7 +761,7 @@
     {
         "title": "Nelue River",
         "artist": "fkRadish",
-        "level": "下2",
+        "level": "中2",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=88",
         "url_diff": "",
         "comment": "",
@@ -820,5 +820,133 @@
         "url_diff": "",
         "comment": "",
         "md5": "4e116f2c44bdbc7e5f6c4e0ca606f0c4"
+    },
+    {
+        "title": "CARRY MODE",
+        "artist": "Glitch Lortnoc",
+        "level": "上3",
+        "url": "https://drive.google.com/file/d/1m9IYY4hOpRi8OggnyhkI-Ns-vS3yTmIz/view?usp=sharing",
+        "url_diff": "",
+        "comment": "",
+        "md5": "bdf6a426c507efd3328a711678d32218"
+    },
+    {
+        "title": "ROBITA 3404 [7keys_Another]",
+        "artist": "Process 2.3.1. / obj:Felisica",
+        "level": "中1",
+        "url": "https://onedrive.live.com/?authkey=%21AIr4v9MWBYrS9h8&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21441&parId=FC95A680740CA8C9%21428&o=OneUp",
+        "url_diff": "http://nekokan.dyndns.info/~anonymous/bms/fuki1755/sabun/robita_7a_fel.zip",
+        "comment": "",
+        "md5": "248789097f83a191cd928abbaf17a5d4"
+    },
+    {
+        "title": "Gynandromorph[7key_Hard]",
+        "artist": "tarolabo obj:mfmf",
+        "level": "上3",
+        "url": "https://www.mediafire.com/download/44680p3uf7dab41/Gynandromorph.zip",
+        "url_diff": "https://web.archive.org/web/20130612003258/http://page.freett.com/mooooooop/Gynan_03-1.zip",
+        "comment": "",
+        "md5": "cf8227a7f3ef8666c81ce4d7a53b85e7"
+    },
+    {
+        "title": "KINKYU!!T.A.N.Y.A.O",
+        "artist": "タンヤオ使い‐きつね",
+        "level": "中2",
+        "url": "https://drive.google.com/file/d/1A8cM8nVi9jxYAiN0FkbTqNmClBiM1bVJ/view",
+        "url_diff": "",
+        "comment": "",
+        "md5": "7022c64194038d34e7612a2eaedfcb07"
+    },
+    {
+        "title": "BRILLIANT STAR ～煌星の雫～ [ZOI-HD]",
+        "artist": "shimizushi BGA :vol-t & a.a  / obj:SUZUKAZEΛ",
+        "level": "上2",
+        "url": "https://www.dropbox.com/s/olp1tvhb4nn6j1d/%5Bshimizushi%5DB_STAR.rar?dl=0",
+        "url_diff": "https://dl.dropbox.com/s/q9xmde283lwzg13/%5Bshimizushi%5DB_STARzoihd.zip?dl=1",
+        "comment": "",
+        "md5": "e4808ead35c1a7235707d6e196ba217d"
+    },
+    {
+        "title": "S≠M [S≠EZ]",
+        "artist": "Genius442 obj: qtp13",
+        "level": "上3",
+        "url": "https://www.dropbox.com/s/mc0crahadi6fw2h/SnM.zip?dl=1",
+        "url_diff": "https://stellabms.xyz/upload/929",
+        "comment": "",
+        "md5": "dc9594f29fb8673fea68cedc253c7f57"
+    },
+    {
+        "title": "絶望と破壊のソネタ (KAMIKAZE7)",
+        "artist": "sumomo / arr.BACO",
+        "level": "上1",
+        "url": "https://twitter.com/deathrain_kusso/status/409641889982214145",
+        "url_diff": "",
+        "comment": "",
+        "md5": "767107944a082538a0f4ec7e9d393e8b"
+    },
+    {
+        "title": "TEXTURE",
+        "artist": "pencil",
+        "level": "中3",
+        "url": "https://drive.google.com/file/d/15j0_iP6W90T6kS1Q_1w4PnWzpmpS-pmZ/view",
+        "url_diff": "",
+        "comment": "",
+        "md5": "f633dc435a039844f9672cb3eb7b3bb3"
+    },
+    {
+        "title": "Exp",
+        "artist": "corok-Bb",
+        "level": "中2",
+        "url": "https://drive.google.com/file/d/1Yz3PrcenHK5WLf8eqSZoN7Hdue1QYNtk/view?usp=drive_link",
+        "url_diff": "",
+        "comment": "",
+        "md5": "74cfda5d772b1149de9f430bf648c1a0"
+    },
+    {
+        "title": "Phase V [cHke]",
+        "artist": "ユウスケタケウチ(6yen) 差分: chocolate cake",
+        "level": "上2",
+        "url": "https://web.archive.org/web/20100224005152/http://www.commonsense.nu/songs/phase5.rar",
+        "url_diff": "https://drive.google.com/drive/folders/1qzI8LMKUS2P7W725bsXRVOh3ZL6L9rWk",
+        "comment": "",
+        "md5": "a99ad6a8908948386e4c58a0647690ec"
+    },
+    {
+        "title": "Summertraces [rather]",
+        "artist": "Kanata.S / obj.rat",
+        "level": "中2",
+        "url": "https://ponytailrecord.com/BOFET/Summertraces.zip",
+        "url_diff": "",
+        "comment": "",
+        "md5": "09defc22be13de56428338a5948e622e"
+    },
+    {
+        "title": "Verre -Ambient Cafe Del Mar Mix- [Transparent]",
+        "artist": "TAK / ke (obj:EGRET.)",
+        "level": "下3",
+        "url": "https://onedrive.live.com/?authkey=%21ANyZD9QeOV1qq4k&cid=3078649C19F9CDD6&id=3078649C19F9CDD6%21898&parId=3078649C19F9CDD6%21105&action=locate",
+        "url_diff": "https://stellabms.xyz/upload/2733",
+        "comment": "",
+        "md5": "f25ab6a9344e0dcb15c2589972e1cf98"
+    },
+    {
+        "title": "StarRail [PULSAR]",
+        "artist": "oyayubi / obj. HARD判定 ENJOYERS BGI:mak",
+        "level": "中1",
+        "url": "https://www.dropbox.com/s/9i65koakdcr8it0/%5Boyayubi%5DStarRail.zip?dl=0",
+        "url_diff": "https://stellabms.xyz/upload/3135",
+        "comment": "",
+        "md5": "00ddc749a45a45d013d6d9ffdb079d01"
+    },
+    {
+        "title": "Snowfairy [λ]",
+        "artist": "Lime feat. Salita / deadblue238 obj. HARD判定 ENJOYERS",
+        "level": "中2",
+        "url": "https://1drv.ms/u/s!AkHILFwfHSyzgQq9h_F43s8uxLLc?e=uTNxHe",
+        "url_diff": "https://stellabms.xyz/upload/3136",
+        "comment": "",
+        "md5": "f5c273b24d86044aff1cfb2b98320573"
     }
+
+
 ]
