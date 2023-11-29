@@ -17,22 +17,50 @@
 	<body style="width: 800px; font-family: MS UI Gothic; ">
 		<h1>BMSSearch Artist Table</h1>
 		
-		<p>
-			Add this page's URL to BeMusicSeeker or beatoraja to use the table.
+		<p style="color:red">
+			<b>Add this page's URL to BeMusicSeeker or beatoraja to use the table.</b><br>
+			This will take a long time to load.
 		</p>
 		
 		<p>
-			This is a difficulty table separating artists each into their own folder, generated
-			using the BMSSearch API. Note that it definitely isn't perfect given the data on
-			BMSSearch isn't always reliable to begin with, as well as there being no API endpoint
-			for querying an artist's BMS meaning I had to use the search endpoint and filter out
-			as many junk results as I could. Beatoraja also cannot have the same BMS in multiple
-			folders so collaborations will only be present on one of the participants' folder
-			(I believe this works properly in BeMusicSeeker/LR2).
+			This is a difficulty table separating artists each into their own folder complete with
+			all songs from each of their aliases, generated using the BMSSearch API.
+		</p>
+		
+		<p>
+			Notes:<br>
+			・ Some BMS entries will be missing due to random errors while querying the API. If you cannot find
+			an artist or song you are looking for, this is most likely why.<br>
+			・ As incredible of a resource as the site is, the data on BMSSearch isn't exactly perfect, so it
+			might happen that things are miscategorised here and there. On the whole it should be very good though.
+			Please visit <a href="https://bmssearch.net/artists/YUzOJO06xranC-">r's artist page</a> if you want a
+			clearer idea of what I mean here.<br>
+			・ I will update this every now and then but this process is not automatic and fairly time consuming, so
+			it's totally possible that the table will be out of date at any given point.
+		</p>
+		
+		<p>
+			Some statistics:<br>
+			・ Number of unique artists included: <i>2,482</i><br>
+			・ Number of bms files included: <i>117,385</i><br>
+			・ File size of the table json: <i>24,158 KB</i><br>
 		</p>
 		
 		<p>
 			<b>Updates</b>
+			
+			<p>
+				2023-11-29<br>
+				Now getting the artist list from BMSSearch directly, meaning the table should contain everything
+				listed on the site. A couple downsides to this:<br>
+				・ Folder names might not be perfect, although I did my best to make sure the most relevant alias is picked.<br>
+				・ Collaborative aliases will only be able to appear in one of the artists' folder
+				for the time being. This is due to the underlying data structure used. I might try to fix this in
+				the future, but as beatoraja already refuses to show charts contained in more than one level folder
+				the usefulness might be limited.<br>
+				・ The table is now <b>&lt;Very Big&gt;</b> and will take a long time to load
+				(turning off sync in BMSeeker is recommended).
+			</p>
 			
 			<p>
 				2023-11-27:<br>
@@ -44,6 +72,11 @@
 			<p>
 				2023-11-26:<br>
 				Fixed the issue with unrelated artists being pulled into an artist's folder.
+			</p>
+			
+			<p>
+				2023-09-24:<br>
+				Initial release.
 			</p>
 		</p>
 	</body>
