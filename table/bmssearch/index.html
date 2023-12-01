@@ -42,13 +42,26 @@
 		
 		<p>
 			Some statistics:<br>
-			・ Number of unique artists included: <i>2,482</i><br>
-			・ Number of bms files included: <i>117,385</i><br>
-			・ File size of the table json: <i>24,158 KB</i><br>
+			・ Number of unique artists included: <i>2,427</i><br>
+			・ Number of bms files included: <i>95,028</i><br>
 		</p>
 		
 		<p>
 			<b>Updates</b>
+			
+			<p>
+				2023-12-01<br>
+				Rewrote everything to fix most of the remaining problems:<br>
+				・ Songs using collaborative aliases will now appear in each of the artists' folder.<br>
+				・ Fixed an issue where aliases weren't properly merged.<br>
+				・ Not really relevant for users but the table can now be regenerated without spamming the BMSSearch API,
+				making things easier to iterate on and hopefully less heavy on BMSSearch's servers.<br>
+				Remaining issues which can't really be fixed:<br>
+				・ Some of the data will look a little weird due to BMSSearch's database being imperfect and the API errorring
+				in unpredictable ways.<br>
+				・ Still very big, beatoraja's code will need to be amended for it to be able to load it properly (reach out
+				to me if you want a temporary build where this is fixed in the meantime, but it won't be compatible with IRs).
+			</p>
 			
 			<p>
 				2023-11-29<br>
