@@ -1,0 +1,37 @@
+body {
+    width: 100%;
+    max-width: 1280px;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    all: unset;
+    display: inline-block;
+    width: 100%;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-spacing: 0;
+    line-height: 24px;
+}
+
+tbody tr {
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background-color: #f0f0f0;
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+    padding: 0 10px 0 10px;
+}
+
+th {
+    border-bottom: 1px solid #ddd;
+}

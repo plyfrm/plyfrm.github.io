@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+	<head>
+		<link href="styles.css" rel="stylesheet">
+		<title>Combined Uploader Database</title>
+	</head>
+	
+	<body>
+
+		<h1>Combined Uploader Database</h1>
+
+		<p>
+			<input type="text" id="filter" name="filter" placeholder="Filter">
+		</p>
+
+		<div>
+			<table>
+				<thead>
+					<tr>
+						<th>Title</th>
+						<th>Artist</th>
+						<th>Comment</th>
+					</tr>
+				</thead>
+				<tbody id="list">
+				</tbody>
+			</table>
+		</div>
+
+		<script>
+
+const filter_element = document.querySelector("#filter");
+const list_element = document.querySelector("#list");
+
+let data = {};
+let filtered_data = {};
+let sort_key = "title";
+
+const list_update_worker = new Worker("combined-worker.js");
+
+list_update_worker.onmessage = (event) => {
+	list_element.innerHTML = event.data;
+};
+
+filter_element.addEventListener("change", (event) => {
+	run_filter();
+	sort_data();
+	update_list();
+});
+
+fetch('./combined-data.json')
+	.then((response) => response.json())
+	.then((json) => {
+		data = json;
+		run_filter();
+		sort_data();
+		update_list();
+	});
+
+function run_filter() {
+	let filter = filter_element.value.toLowerCase();
+	let output = data.filter((entry) => 
+		(entry.title + entry.artist + entry.genre + entry.event).toLowerCase().includes(filter)
+	);
+	filtered_data = output;
+}
+
+function sort_data() {
+	filtered_data.sort((a, b) => {
+		if (a[sort_key].toLowerCase() < b[sort_key].toLowerCase()) {
+			return -1;
+		} else if (a[sort_key].toLowerCase() === b[sort_key].toLowerCase()) {
+			return 0;
+		} else if (a[sort_key].toLowerCase() > b[sort_key].toLowerCase()) {
+			return 1;
+		}
+	});
+}
+
+function update_list() {
+	list_update_worker.postMessage(filtered_data);
+}
+
+		</script>
+	</body>
+</html>
