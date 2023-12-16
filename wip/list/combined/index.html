@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<link href="styles.css" rel="stylesheet">
+		<link href="../styles.css" rel="stylesheet">
 		<title>Combined Uploader Database</title>
 	</head>
 	
@@ -38,6 +38,8 @@ let sort_key = "title";
 
 const list_update_worker = new Worker("combined-worker.js");
 
+list_element.innerHTML = "Loading...";
+
 list_update_worker.onmessage = (event) => {
 	list_element.innerHTML = event.data;
 };
@@ -60,7 +62,7 @@ fetch('./combined-data.json')
 function run_filter() {
 	let filter = filter_element.value.toLowerCase();
 	let output = data.filter((entry) => 
-		(entry.title + entry.artist + entry.genre + entry.event).toLowerCase().includes(filter)
+		(entry.title + entry.artist).toLowerCase().includes(filter)
 	);
 	filtered_data = output;
 }

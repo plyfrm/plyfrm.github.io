@@ -1,12 +1,17 @@
 <!doctype html>
 <html>
 	<head>
-		<link href="styles.css" rel="stylesheet">
+		<link href="../styles.css" rel="stylesheet">
 		<title>1998~1999 List</title>
+		<meta name="bmstable" content="table-header.json">
 	</head>
 	
 	<body>
 		<h1>1998~1999 List</h1>
+
+		<p>
+			This page is importable as a difficulty table in BeMusicSeeker or beatoraja, to help participants find BMS they already possess.
+		</p>
 
 		<p>
 			<input type="text" id="filter" name="filter" placeholder="Filter">
@@ -37,6 +42,8 @@ let filtered_data = {};
 let sort_key = "title";
 
 const list_update_worker = new Worker("allowed-worker.js");
+
+list_element.innerHTML = "Loading...";
 
 list_update_worker.onmessage = (event) => {
 	list_element.innerHTML = event.data;
