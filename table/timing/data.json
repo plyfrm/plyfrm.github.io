@@ -1,4 +1,121 @@
-[   
+[
+    {
+        "title": "Particle reaction",
+        "artist": "akijin",
+        "level": "下1",
+        "url": "http://akijinsan.fc2web.com/pr.rar",
+        "url_diff": "",
+        "comment": "",
+        "md5": "94ab36be7bf17a9251994802a6ffb802"
+    },
+    {
+        "title": "火炎狐に氷の刃",
+        "artist": "KITUNE",
+        "level": "下2",
+        "url": "https://web.archive.org/web/20190729040717/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/BMS%20Game's%20C&A%20Package.rar",
+        "url_diff": "",
+        "comment": "",
+        "md5": "a6760b30131d4ffe1e258cd161667e59"
+    },
+    {
+        "title": "Functional Object X",
+        "artist": "AkA-110",
+        "level": "下2",
+        "url": "https://www.dropbox.com/s/17f2i7unkducmv9/FunctionalObjectX.zip?dl=1",
+        "url_diff": "",
+        "comment": "",
+        "md5": "6611057320f3b175757639a55745b413"
+    }
+    {
+        "title": "夜の底より Regards Midnight  [ANOTHER]",
+        "artist": "Mowl",
+        "level": "下3",
+        "url": "https://drive.google.com/file/d/1pcimc12t5RFxnVs51rpwneYmtp93mFKa/edit",
+        "url_diff": "",
+        "comment": "",
+        "md5": "b6c9cd6705ce4b43ed1d4ad3e1a7c707"
+    },
+    {
+        "title": "cradle to grave [ANOTHER7]",
+        "artist": "ねこみりん obj:ルゼ",
+        "level": "下2",
+        "url": "https://www.nekomirin.com/bms/nekomirin_yurihaka_ogg.zip",
+        "url_diff": "",
+        "comment": "",
+        "md5": "1640e4117c4a2567065eee96bdfcddaf"
+    },
+    {
+        "title": "ちょっ！めっ！たんっ！",
+        "artist": "mochimochi",
+        "level": "中1",
+        "url": "https://www.dropbox.com/scl/fi/6qlmi0i147pd8o1e8lkol/2.zip?rlkey=w12vqt1rpbwcz0qysuecf95oo&dl=1",
+        "url_diff": "",
+        "comment": "",
+        "md5": "f3a7383c1634cb6e0f41d0cc5f38096b"
+    },
+    {
+        "title": "APOCALYPTICA [LIMBO]",
+        "artist": "U-ske feat. 符白牙 obj.Restia",
+        "level": "上0",
+        "url": "https://www.dropbox.com/sh/54rdwsyve971rjj/AAA6NdOUfc4EYUxe8g8v6U7Qa?dl=0",
+        "url_diff": "https://stellabms.xyz/upload/3343",
+        "comment": "",
+        "md5": "f2cc1f71cc49835170cf544aafe218f5"
+    },
+    {
+        "title": "Painkiller[HARD]",
+        "artist": "Rolamet",
+        "level": "中1",
+        "url": "https://drive.google.com/file/d/1ENH9cfG1B7_omuurDdkexY2zp6ROiacl/view?usp=drive_link",
+        "url_diff": "",
+        "comment": "",
+        "md5": "92f48aa43b189732e227f72509ba7a79"
+    },
+    {
+        "title": "CLADLE",
+        "artist": "コッタ",
+        "level": "中2",
+        "url": "https://www.dropbox.com/s/gzoobygmuqxj2lz/CLADLE20220501.zip?dl=0",
+        "url_diff": "",
+        "comment": "",
+        "md5": "7ca82d34d70fa4482d56c1ab868d37d4"
+    },
+    {
+        "title": "Memorable Summer Voyage short fade-out version [7KEYS ANOTHER]",
+        "artist": "L216",
+        "level": "中3",
+        "url": "https://drive.google.com/file/d/1vsP0__01XTA0sPlatxMcMeM84lJ9o8G4/view",
+        "url_diff": "",
+        "comment": "",
+        "md5": "eb91b658ed0d7c9f04837cc7d08d835a"
+    },
+    {
+        "title": "some rest [SP INSANE]",
+        "artist": "4G",
+        "level": "鬼",
+        "url": "https://kids-philosophy.candypop.jp/archives/somerest.rar",
+        "url_diff": "",
+        "comment": "lns, difficult zure",
+        "md5": "d2b2a738506199c7b072475db89500e9"
+    },
+    {
+        "title": "lastwords [COMMITTED]",
+        "artist": "Rose Quartz mov: Nima x 神宮要, obj: OfficialAz3",
+        "level": "鬼",
+        "url": "https://drive.google.com/file/d/1guSqLx2mrcbXWHXemkhaUSmY8_y5TqMa/view?usp=sharing",
+        "url_diff": "",
+        "comment": "very dense bursts, foldstairs",
+        "md5": "b16f7277f70b3eacd8529ce2f811fc6e"
+    },
+    {
+        "title": "Physical damage -Past Scars-[Intense]",
+        "artist": "鈎兎(KagiUsagi) obj.fhyu",
+        "level": "上3",
+        "url": "https://dropbox.com/s/hptehlml1na9m3c/[KagiUsagi]Physical_damage.zip?dl=1",
+        "url_diff": "https://darksabun.github.io/bceg/event/ondan9/ondan9_Pattern_20200309.zip",
+        "comment": "",
+        "md5": "b4f78730b27aa95164fae41a331afe63"
+    },
 	{
         "title": "Incoherent Hysteria [ANOTHER: Feeling Hysteric]",
         "artist": "OfficialAz3",
@@ -262,15 +379,6 @@
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05420.zip",
         "comment": "very difficult zure, BSS",
         "md5": "9a79a9df50c636624f0a6cd6c71a0d99"
-    },
-    {
-        "title": "S≠M [S≠EZ]",
-        "artist": "Genius442 obj: qtp13",
-        "level": "上2",
-        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=133",
-        "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05374.zip",
-        "comment": "",
-        "md5": "dc9594f29fb8673fea68cedc253c7f57"
     },
     {
         "title": "gazer [cAke]",
@@ -860,7 +968,7 @@
     {
         "title": "BRILLIANT STAR ～煌星の雫～ [ZOI-HD]",
         "artist": "shimizushi BGA :vol-t & a.a  / obj:SUZUKAZEΛ",
-        "level": "上2",
+        "level": "上1",
         "url": "https://www.dropbox.com/s/olp1tvhb4nn6j1d/%5Bshimizushi%5DB_STAR.rar?dl=0",
         "url_diff": "https://dl.dropbox.com/s/q9xmde283lwzg13/%5Bshimizushi%5DB_STARzoihd.zip?dl=1",
         "comment": "",
