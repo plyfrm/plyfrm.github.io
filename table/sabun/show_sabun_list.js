@@ -48,7 +48,7 @@ ${favourite_open}
 COMMENT: ${chart_data.comment} <br>
 <a target="_blank" href="${chart_data.url}">Song</a>
 <a target="_blank" href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart_data.md5}">LR2IR</a>
-<a target="_blank" href="http://www.ribbit.xyz/bms/score/view?md5=${chart_data.md5}">Score Viewer</a>
+<a target="_blank" href="https://bms-score-viewer.pages.dev/view?md5={chart_data.md5}">Score Viewer</a>
 ${video}
 ${favourite_close}
 
